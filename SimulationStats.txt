@@ -1,0 +1,21 @@
+5
+Logins:4.00:2.19
+Time online:158.38:19.00
+Emails sent:10.00:2.37
+Emails opened:11.71:4.37
+Emails deleted:6.57:1.77
+
+Day 1
+Daily Total = 184.24
+Day 2
+Daily Total = 199.97
+Day 3
+Daily Total = 170.54
+Day 4
+Daily Total = 206.14
+Day 5
+Daily Total = 195.11
+Day 6
+Daily Total = 171.73
+Day 7
+Daily Total = 206.93

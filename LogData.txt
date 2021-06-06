@@ -1,0 +1,49 @@
+Day 1
+Logins:6
+Time online:155.24
+Emails sent:8
+Emails opened:10
+Emails deleted:5
+
+Day 2
+Logins:2
+Time online:163.97
+Emails sent:13
+Emails opened:17
+Emails deleted:4
+
+Day 3
+Logins:6
+Time online:132.54
+Emails sent:9
+Emails opened:17
+Emails deleted:6
+
+Day 4
+Logins:2
+Time online:175.14
+Emails sent:13
+Emails opened:8
+Emails deleted:8
+
+Day 5
+Logins:4
+Time online:169.11
+Emails sent:8
+Emails opened:7
+Emails deleted:7
+
+Day 6
+Logins:6
+Time online:137.73
+Emails sent:9
+Emails opened:11
+Emails deleted:8
+
+Day 7
+Logins:2
+Time online:174.93
+Emails sent:10
+Emails opened:12
+Emails deleted:8
+
